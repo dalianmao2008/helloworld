@@ -10,7 +10,7 @@ import io.servicecomb.provider.rest.common.RestSchema;
 @javax.annotation.Generated(value = "io.swagger.codegen.languages.CseSpringDemoCodegen", date = "2018-02-03T01:41:56.003Z")
 
 @RestSchema(schemaId = "helloworldlijie")
-@RequestMapping(path = "/helloworld-lijie", produces = MediaType.APPLICATION_JSON)
+@RequestMapping(path = "/helloworld", produces = MediaType.APPLICATION_JSON)
 public class HelloworldlijieImpl {
 
     @Autowired
